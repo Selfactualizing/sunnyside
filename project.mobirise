@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sunnyside Speech Therapy",
-    "currentPage": "index.html",
+    "currentPage": "philosophy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -956,9 +956,9 @@
         }
       ]
     },
-    "page1.html": {
+    "philosophy.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Sunnyside Speech Therapy, LLC. Therapeutic Philosophy and Modalities.",
         "title": "philosophy",
         "order": 1
       },
