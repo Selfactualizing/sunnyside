@@ -2448,6 +2448,29 @@ body {
 .cid-r3YKNpeS5n .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-r53M4FKQY2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r53M4FKQY2 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r53M4FKQY2 .section-text {
+  padding: 2rem 0;
+}
+.cid-r53M4FKQY2 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r53M4FKQY2 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-r53GHZUUIf {
   padding-top: 60px;
   padding-bottom: 60px;
