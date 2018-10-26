@@ -1763,7 +1763,7 @@ body {
   color: #767676 !important;
 }
 .cid-r3YKQe6I7T {
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/sunnyside-hero-2000x1436.png");
 }
 .cid-r3YKQe6I7T H1 {
   text-align: center;
@@ -1797,42 +1797,6 @@ body {
   .cid-r3YKX5SJgX .inner-container {
     width: 100% !important;
   }
-}
-.cid-r41K680qnv {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
-}
-@media (min-width: 992px) {
-  .cid-r41K680qnv .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r41K680qnv .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-r41K680qnv .mbr-text {
-    text-align: center;
-  }
-}
-.cid-r53AAyrzqO {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-r53AAyrzqO .mbr-text {
-  color: #767676;
-}
-.cid-r53EAW6Qqg {
-  padding-top: 15px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-r53EAW6Qqg .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-r53CrJ2f4j {
   padding-top: 0px;
@@ -1895,6 +1859,23 @@ body {
   opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-r7jSz19nib {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
+}
+.cid-r7jUxSI1u2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r7jUxSI1u2 .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
+.cid-r7jUxSI1u2 .mbr-section-subtitle DIV {
+  text-align: center;
 }
 .cid-r4hYLclERh {
   padding-top: 60px;
@@ -2037,20 +2018,13 @@ body {
     padding-left: 30px;
   }
 }
-.cid-r3YLepYU4u {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(0deg, #7fdbfd, #149dcc);
-}
-.cid-r3YLepYU4u .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ffffff;
-}
-.cid-r3YLepYU4u .social-list a:focus {
-  text-decoration: none;
+.cid-r7jUTR0E6r {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-r53FC3nEuM {
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/sunnyside-hero-2000x1436.png");
 }
 .cid-r53FC3nEuM .mbr-text,
 .cid-r53FC3nEuM .mbr-section-btn {
